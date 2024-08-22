@@ -1,0 +1,52 @@
+{
+  "autoReplies": [
+    {
+      "trigger": "hi",
+      "response": "Hey"
+    },
+    {
+      "trigger": "hello",
+      "response": "Hi"
+    },
+    {
+      "trigger": "how are you",
+      "response": "I'm fine, thank you!"
+    },
+    {
+      "trigger": "good morning",
+      "response": "Good morning"
+    },
+    {
+      "trigger": "Gm",
+      "response": "Good morning"
+    },
+    {
+      "trigger": "Good night",
+      "response": "Good night"
+    },
+    {
+      "trigger": "Gn",
+      "response": "Good night"
+    },
+    {
+      "trigger": "puka sududa",
+      "response": "Ne thalelui"
+    },
+    {
+      "trigger": "Mk",
+      "response": "Mkn"
+    },
+    {
+      "trigger": "What are you doing",
+      "response": "Nothing"
+    },
+    {
+      "trigger": "Binura",
+      "response": "Yes here!"
+    },
+    {
+      "trigger": "Sandun",
+      "response": "Yes here!"
+    },
+  ]
+}
